@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:25:37.168607
+# -*- mode: mandoku-view -*-
 #+TITLE: 高上大洞文昌司祿紫陽寶籙
-#+PROPERTY: DZID  DZ1214
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，28—503 三卷 正一部
+#+DATE: 2015-08-29 02:25:38
+#+PROPERTY:  LASTPB <PB KR5g0023_SJB_003-280515b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶
+
